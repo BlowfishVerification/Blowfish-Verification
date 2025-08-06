@@ -1,47 +1,36 @@
-# Blowfish Verification – Phantom Whitelist Services for Solana dApps
+Web3 users are more cautious than ever. When they open your dApp through the Phantom wallet and see red warning banners like:
 
-Welcome to the official GitHub repository of **Blowfish Verification**, the leading independent service specializing in **Phantom whitelist services**, **Blowfish verification support**, and **Solana dApp compliance**. Our mission is to help Web3 developers eliminate Phantom wallet warnings, gain user trust, and achieve secure and compliant dApp integration on the Solana blockchain.
+> ⚠️ *"This app may compromise your funds or data"*
 
-## 🚀 What We Do
+…most will **abandon your app immediately** — even if your code is completely safe.
 
-Modern Web3 users expect a seamless, secure experience—especially when interacting with Solana dApps via the Phantom wallet. Unfortunately, even well-built dApps are frequently flagged with red warnings like:
+This happens due to:
 
-> ⚠️ *“This dApp may compromise your funds or data”*
+- Missing or improperly implemented `signAndSendTransaction` flows  
+- Lack of Blowfish review and verification  
+- No presence or activity from your GitHub and X (Twitter) accounts  
+- Most importantly: No **trusted developer vouch**  
 
-This message often appears due to:
-- Improper or missing `signAndSendTransaction` implementations
-- Lack of Blowfish verification
-- Inactive or unverified GitHub/X accounts
-- Absence of trusted developer vouches
-
-That’s where **Blowfish Verification** comes in.
+We solve all of that. Period.
 
 ---
 
-## ✅ Key Services We Offer
+## ✅ Our Core Services for Phantom and Blowfish Verification
 
-### 🔐 Phantom Warning Removal
-Remove those alarming red flags from your dApp and restore trust with users. We fix the root causes of Phantom's risk alerts—fast and efficiently.
+### 🔐 Phantom Wallet Warning Removal  
+We analyze and fix the specific factors causing your dApp to be flagged by Phantom. Whether it’s improper transaction signing, missing metadata, or a lack of whitelist approval — we get it done fast.
 
-### 🧩 Blowfish Verification Support
-We help you meet Blowfish verification standards to ensure your dApp aligns with the wallet’s security guidelines and protocol compliance.
+### 🧩 Blowfish Verification Support  
+We guide you through the entire Blowfish verification process — from security checks to formal submissions — ensuring that your app meets the criteria to be marked safe by Phantom.
 
-### 🛡️ signAndSendTransaction Solutions
-Our team audits and corrects your `signAndSendTransaction` code to ensure Phantom compliance. Say goodbye to unnecessary warnings and hello to smoother approvals.
+### 🛡️ signAndSendTransaction Audits  
+Our team audits your implementation of `signAndSendTransaction`, identifying and resolving the issues that trigger warnings. We ensure your dApp follows all best practices required by Phantom.
 
-### 🛠️ Solana dApp Compliance
-From code audits and documentation to Phantom team outreach, we offer full-stack compliance support for Solana dApp developers.
+### 🛠️ Full Solana dApp Compliance  
+Need broader support? We help align your app with the Solana ecosystem's technical standards — including smart contract structure, endpoint validation, metadata accuracy, and more.
 
-### 🧑‍💻 Trusted Developer Vouching
-Gain credibility with verified vouches from established Solana devs. We optimize your GitHub and X profiles to present a trustworthy public presence.
-
----
-
-## 🌐 Website
-
-👉 [https://www.blowfishverification.com/](https://www.blowfishverification.com/)
-
-Visit our website to learn more, browse FAQs, and start your Phantom whitelisting journey today.
+### 🧑‍💻 Trusted Developer Vouching  
+One of the biggest hurdles in the Blowfish process is getting vouched for by a recognized Solana developer. We provide this — along with optimization of your GitHub and X profiles to reflect legitimacy and activity.
 
 ---
 
@@ -55,4 +44,6 @@ Have questions or ready to get started? Contact us directly on X (formerly Twitt
 
 ## 🛑 Disclaimer
 
-Blowfish Verification is an independent third-party service and is **not affiliated with Phantom, Solana Labs, or Blowfish**. All names are used for descriptive purposes only.
+Blowfish Verification is an independent third-party service and is **not affiliated with Phantom, Solana Labs, or Blowfish**. All names are used strictly for descriptive and interoperability purposes only.
+
+---
